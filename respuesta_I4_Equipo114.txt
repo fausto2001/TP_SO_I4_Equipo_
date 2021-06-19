@@ -2,3 +2,8 @@ A- La pagina en TESTING tiene color azul.
 B- La pagina en DESARROLLO tiene color amarillo.
 C- La pagina en el main tiene color azul porque se decidió así, ya que era el último merge.
 D- El favicon que quedó fue el de BETA.
+E- BETA tiene problemas al querer pushear luego de ALFA, ya que hay modificaciones de ALFA no cargadas en el repositorio local de BETA. Modifica el archivo, dejando los cambios de ALFA y añadiendo los de BETA. Lo mismo sucede con GAMMA.
+F- Que había modificaciones realizadas sin cargar.
+G- La solucion que planteamos fue guardar los cambios de todos modificando el archivo index.html.
+H- Si se utilizara el push -f, sólo quedarían cargados los cambios de GAMMA, ya que es el último en pushear.
+I- Se puede hacer un merge desde TESTING hacia DESARROLLO para guardar los <p> de los puntos 18, 19 y 20.
