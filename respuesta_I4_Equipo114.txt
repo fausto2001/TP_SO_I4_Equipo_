@@ -1,0 +1,4 @@
+A- La pagina en TESTING tiene color azul.
+B- La pagina en DESARROLLO tiene color amarillo.
+C- La pagina en el main tiene color azul porque se decidió así, ya que era el último merge.
+D- El favicon que quedó fue el de BETA.
